@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋
+Welcome to my GitHub profile! Here’s a little about me:
 
-<!--
-**Pranavmath/Pranavmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Main Interests:
+My passions lie in computer science. Specifically Artificial Intelligence and Computer vision.
 
-Here are some ideas to get you started:
+💻 Technical Skills:
+I work extensively with various Deep Learning (DL) and Data Analysis libraries:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PyTorch, Numpy, Pandas, Scipy, Huggingface and more.
+Know Flask for developing full-stack web applications. created 3+ applications.
+
+🔭 What I'm Working On:
+I'm currently focusing on computer vision in biomedical research and other various hobby projects.
+
+🤝 Let's Collaborate!
+Feel free to reach out for collaborations or interesting projects.
+📧 Email me at: pranav.sambhu@gmail.com
+
+Thanks so much for visiting! 🚀
+
